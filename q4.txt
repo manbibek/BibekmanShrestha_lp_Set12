@@ -1,0 +1,15 @@
+First things first. You cannot start building a website/app without assessing how the client envisions the final output. 
+Therefore I'd start with interviewing the client. The salient points of focus would be his target audience, 
+the scope/functionalities of the website/app and of course, budget range. There could basically be several ways to go 
+for a custom printed t-shirt website:
+	It may just contain the portfolio of the company along with contact address.
+	It may be an ecommerce site allowing customers to buy pre-designed/printed t-shirts.
+	It may have provisions for customers to actually design the t-shirt within the website using a dynamic modelling tool.
+	The customers may just upload their design request.
+	and so on.
+
+Based on the rough vision of the client, I would then start preparations by building a rough sitemap and 
+selecting which web technologies, frameworks to use for CMS, Shopping Cart, Style Sheets, etc.
+
+The most important factors in deciding the mode of development would be the complexity of the project and the size of the 
+development team. Assuming a medium to low complexity and small team size, I'd probably opt for Agile development model.

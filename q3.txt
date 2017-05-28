@@ -1,0 +1,11 @@
+The basic difference between QA and QC is that QA ensures quality in process while QC ensures quality in products.
+It means that Quality Assurance basically works during the product developmental process while Quality Control works after the product is completed.
+
+Quality Assurance is used to make sure that the process of development of product is as efficient and close to perfect as can be possible within the constraints.
+This mostly includes strict management policies and strategies, proper planning, using new and efficient technologies, etc. Each and every member of the developmental
+team is responsible for QA. For example, in a car manufacturing company,QA would be using state of the art manufacturing equipments, 
+well managed supply-chain and resource planning, using new technologies, etc.
+
+Quality Control on the other hand is used to make sure that the product has no defects through series of testing mechanisms. It makes sure that no faulty product
+reaches the hand of the customer. A certain testing team oversees the Quality Control. For example, in a car manufacturing company, QC would be 
+crash tests, testing for engine leaks, test drive, testing durability of suspension, etc.

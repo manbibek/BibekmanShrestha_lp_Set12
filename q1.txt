@@ -1,0 +1,25 @@
+// written in Java
+
+public class CleanedString{
+	public static void main(String[] args){
+		String str = "yyzzza";	//Insert input string to be cleaned here
+		str = stringCleaner(str);
+		System.out.println(str);
+	}
+
+	static private String stringCleaner(String str){
+		int len = str.length();
+
+		if(str.equals("") || str.length()==1){	// if the string is null or has just one character, return it as it is.
+			return str;
+		}
+
+		else if(str.charAt(len-1) == str.charAt(len-2)){		// if last two characters match, omit last character and return the rest
+			return stringCleaner(str.substring(0,len-1));
+		}
+
+		else {
+			return stringCleaner(str.substring(0,len-1)) + str.charAt(len-1);	// if last two characters don't match, recursively call the method on string omitting the last characgter and then append the result with last character.
+		}
+	}	
+}
